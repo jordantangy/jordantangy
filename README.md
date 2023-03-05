@@ -33,7 +33,7 @@ I successfully graduated from Ariel University  with a B.Sc. in Computer Science
       <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java logo" width="85" height="60">
     </a>
     <a href="#" target="_blank">
-      <img src="https://blog.insaid.co/wp-content/uploads/2019/04/Python-logo.jpg" alt="Python logo" width="60" height="60">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python logo" width="60" height="60">
     </a>
     <a href="#" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL logo" width="60" height="60">
