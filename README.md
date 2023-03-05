@@ -38,5 +38,5 @@
 
 <h3 align="left">&</h3>
 
-<a href="#" target="_blank"><img src="https://fontsbee.com/wp-content/uploads/2021/10/Fender-Font-Family-Free-Download.jpg" alt="coffee" width="100" height="60"/> </a><a href="#" target="_blank"><img src="https://img.freepik.com/premium-vector/freestyle-snowboard-vector-logo-design_215665-469.jpg?w=2000" alt="surf" width="90" height="90"/> </a>
+<a href="#" target="_blank"><img src="https://fontsbee.com/wp-content/uploads/2021/10/Fender-Font-Family-Free-Download.jpg" alt="coffee" width="100" height="60"/> </a><a href="#" target="_blank"><img src=https://cdn4.vectorstock.com/i/1000x1000/31/78/snowboard-club-logo-label-or-badge-template-vector-18253178.jpg" alt="surf" width="90" height="90"/> </a>
 </p>
