@@ -8,8 +8,8 @@
 **Contact me:** `jordantangy@gmail.com`
 
 ## A little about me:
-Passionate by new technologies and developing tools to 
-I graduated from Ariel University after completing successfully my studies in Computer Science and Mathematics. I worked for several companies as a developer and support engineer. Here you can find all my school and real life projects !
+Passionate by new technologies, data and developing back-end based technologies. </br>
+I successfully graduated from Ariel University  in Computer Science and Mathematics. I first worked as a Support Engineer and then as a Full Stack Developer. Here you can find all my school and real life projects ! 🚀
 
 <h3 align="left">Interested in:</h3>
 <p align="left">
