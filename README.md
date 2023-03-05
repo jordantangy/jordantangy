@@ -47,11 +47,11 @@
  
 <h2 align="left">IDE's</h2>
 <p align="left"> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="60" height="60" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />
-<img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" width="60" height="60"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="60" height="60" />
 
 
 <h3 align="left">Hobbies</h3>
