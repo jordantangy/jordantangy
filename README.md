@@ -44,9 +44,10 @@ I successfully graduated from Ariel University  with a B.Sc. in Computer Science
 
 <h2 align="left">Cloud Solutions ☁</h2>
 <p align="left"> 
-<img src="https://www.gstatic.com/devrel-devsite/prod/v67cb8b0ddf4e3bae39406c7b2c88affae9b405bee7499568a4013f440189dfbf/cloud/images/social-icon-google-cloud-1200-630.png" width="200" height="90" />
-<img src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" width="150" height="70" />
-
+<div>
+	<code><img height="80" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>
+	<code><img height="80" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP" /></code>
+</div>
 
 <h3 align="left">Hobbies</h3>
 
