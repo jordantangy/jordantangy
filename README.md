@@ -10,7 +10,7 @@
 <h3 align="left">Interested in:</h3>
 <p align="left">
   <a href="#" target="_blank">
-      <img src=" https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png" alt="Java logo" width="60" height="60">
+      <img src="https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png" alt="Java logo" width="60" height="60">
     </a>
  <a href="#" target="_blank">
       <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" alt="Spring Boot logo" width="120" height="45">
