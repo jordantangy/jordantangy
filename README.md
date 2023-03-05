@@ -9,7 +9,7 @@
 
 ## A little about me:
 Passionate by new technologies, data and developing back-end based technologies. </br>
-I successfully graduated from Ariel University  in Computer Science and Mathematics. I first worked as a Support Engineer and then as a Full Stack Developer. Here you can find all my school and real life projects ! 🚀
+I successfully graduated from Ariel University  with a B.Sc. in Computer Science and Mathematics. Here you can find all my school and real life projects ! 🚀
 
 <h3 align="left">Interested in:</h3>
 <p align="left">
@@ -58,7 +58,7 @@ I successfully graduated from Ariel University  in Computer Science and Mathemat
 <h2 align="left">Cloud Solutions ☁</h2>
 <p align="left"> 
 <img src="https://www.gstatic.com/devrel-devsite/prod/v67cb8b0ddf4e3bae39406c7b2c88affae9b405bee7499568a4013f440189dfbf/cloud/images/social-icon-google-cloud-1200-630.png" width="150" height="90" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="150" height="90" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="150" height="70" />
 
 
 <h3 align="left">Hobbies</h3>
