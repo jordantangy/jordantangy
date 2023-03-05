@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 🤙 </h1>
-<h3 align="center">Back-End Developer and Computer Science & Mathematics Graduate at </a></h3>
+<h3 align="center">Back-End Developer and Computer Science & Mathematics Graduate  </a></h3>
 
 
 
