@@ -13,10 +13,10 @@
       <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" alt="Spring Boot logo" width="77" height="30">
     </a>
     <a href="#" target="_blank">
-      <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB logo" width="77" height="30">
+      <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB logo" width="120" height="35">
     </a>
     <a href="#" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React logo" width="77" height="30">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React logo" width="45" height="35">
     </a>
     <a href="#" target="_blank">
       <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node.js logo" width="77" height="30">
