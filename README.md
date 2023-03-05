@@ -11,7 +11,7 @@
 Passionate by new technologies, data and developing back-end based technologies. </br>
 I successfully graduated from Ariel University  with a B.Sc. in Computer Science and Mathematics. Here you can find all my school and real life projects ! 🚀
 
-<h2 align="left">Interested in ⚡  🛠</h2>
+<h2 align="left">Interested in ⚡</h2>
 <p align="left">
  
 <div>
