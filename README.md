@@ -26,13 +26,13 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" height="50">
     </a>
     <a href="#" target="_blank">
-      <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java logo" width="85" height="60">
+      <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java logo" width="85" height="50">
     </a>
     <a href="#" target="_blank">
-      <img src="https://blog.insaid.co/wp-content/uploads/2019/04/Python-logo.jpg" alt="Python logo" width="60" height="60">
+      <img src="https://blog.insaid.co/wp-content/uploads/2019/04/Python-logo.jpg" alt="Python logo" width="60" height="50">
     </a>
     <a href="#" target="_blank">
-      <img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" alt="PostgreSQL logo" width="60" height="60">
+      <img src="https://i.pinimg.com/originals/08/6f/2a/086f2a4de4eea1e8bbf7a2dd49c4f66f.png" alt="PostgreSQL logo" width="50" height="50">
     </a>
 
 
