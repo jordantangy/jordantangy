@@ -20,7 +20,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React logo" width="45" height="35">
     </a>
     <a href="#" target="_blank">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node.js logo" width="77" height="30">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node.js logo" width="77" height="50">
     </a>
     <a href="#" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" height="50">
@@ -32,7 +32,7 @@
       <img src="https://blog.insaid.co/wp-content/uploads/2019/04/Python-logo.jpg" alt="Python logo" width="50" height="50">
     </a>
     <a href="#" target="_blank">
-      <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL logo" width="60" height="60">
+      <img src="https://e7.pngegg.com/pngimages/738/738/png-clipart-postgresql-database-logo-application-software-computer-software-mysql-logo-blue-text.png" alt="PostgreSQL logo" width="60" height="60">
     </a>
 
 
