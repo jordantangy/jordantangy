@@ -57,7 +57,7 @@ I successfully graduated from Ariel University  with a B.Sc. in Computer Science
 
 <h2 align="left">Cloud Solutions ☁</h2>
 <p align="left"> 
-<img src="https://www.gstatic.com/devrel-devsite/prod/v67cb8b0ddf4e3bae39406c7b2c88affae9b405bee7499568a4013f440189dfbf/cloud/images/social-icon-google-cloud-1200-630.png" width="150" height="90" />
+<img src="https://www.gstatic.com/devrel-devsite/prod/v67cb8b0ddf4e3bae39406c7b2c88affae9b405bee7499568a4013f440189dfbf/cloud/images/social-icon-google-cloud-1200-630.png" width="200" height="90" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="150" height="70" />
 
 
