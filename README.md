@@ -9,11 +9,14 @@
 
 <h3 align="left">Interested in:</h3>
 <p align="left">
+  <a href="#" target="_blank">
+      <img src=" https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png" alt="Java logo" width="60" height="60">
+    </a>
  <a href="#" target="_blank">
       <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" alt="Spring Boot logo" width="120" height="45">
     </a>
     <a href="#" target="_blank">
-      <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB logo" width="120" height="35">
+      <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB logo" width="120" height="45">
     </a>
     <a href="#" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React logo" width="45" height="35">
@@ -30,6 +33,7 @@
     <a href="#" target="_blank">
       <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL logo" width="77" height="30">
     </a>
+
 
 <h3 align="left">&</h3>
 
