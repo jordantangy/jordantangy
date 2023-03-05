@@ -9,26 +9,26 @@
 
 <h3 align="left">Interested in:</h3>
 <p align="left">
-<a href="#" target="_blank">
-      <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" alt="Spring Boot logo">
+ <a href="#" target="_blank">
+      <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" alt="Spring Boot logo" width="77" height="30">
     </a>
     <a href="#" target="_blank">
-      <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB logo">
+      <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" alt="MongoDB logo" width="77" height="30">
     </a>
     <a href="#" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React logo">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React logo" width="77" height="30">
     </a>
     <a href="#" target="_blank">
-      <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node.js logo">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="Node.js logo" width="77" height="30">
     </a>
     <a href="#" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="77" height="30">
     </a>
     <a href="#" target="_blank">
-      <img src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" alt="Python logo">
+      <img src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" alt="Python logo" width="77" height="30">
     </a>
     <a href="#" target="_blank">
-      <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL logo">
+      <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL logo" width="77" height="30">
     </a>
 
 <h3 align="left">&</h3>
