@@ -38,5 +38,5 @@
 
 <h3 align="left">&</h3>
 
-<a href="#" target="_blank"><img src="https://png.pngtree.com/png-vector/20220517/ourmid/pngtree-guitar-logo-vector-illustration-design-template-png-image_4668676.png" alt="coffee" width="45" height="50"/> </a><a href="#" target="_blank"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/273/person-surfing_1f3c4.png" alt="surf" width="42" height="52"/> </a>
+<a href="#" target="_blank"><img src="https://fontsbee.com/wp-content/uploads/2021/10/Fender-Font-Family-Free-Download.jpg" alt="coffee" width="45" height="50"/> </a><a href="#" target="_blank"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/273/person-surfing_1f3c4.png" alt="surf" width="42" height="52"/> </a>
 </p>
