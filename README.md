@@ -36,7 +36,7 @@ I successfully graduated from Ariel University  with a B.Sc. in Computer Science
       <img src="https://blog.insaid.co/wp-content/uploads/2019/04/Python-logo.jpg" alt="Python logo" width="60" height="60">
     </a>
     <a href="#" target="_blank">
-      <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL logo" width="60" height="60">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="PostgreSQL logo" width="60" height="60">
     </a>
  
 <h2 align="left">Tools  🛠</h2>
