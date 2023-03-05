@@ -7,7 +7,9 @@
 
 **Contact me:** `jordantangy@gmail.com`
 
-## You can find interesting:
+## A little about me:
+Passionate by new technologies and developing tools to 
+I graduated from Ariel University after completing successfully my studies in Computer Science and Mathematics. I worked for several companies as a developer and support engineer. Here you can find all my school and real life projects !
 
 <h3 align="left">Interested in:</h3>
 <p align="left">
@@ -45,7 +47,7 @@
 <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />
 <img src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" />
  
-<h2 align="left">IDE's</h2>
+<h2 align="left">IDE's 💻</h2>
 <p align="left"> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="60" height="60" />
 
@@ -55,10 +57,8 @@
 
 <h2 align="left">Cloud Solutions ☁</h2>
 <p align="left"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="90" height="90" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" width="90" height="90" />
-<img src="https://www.gstatic.com/devrel-devsite/prod/v67cb8b0ddf4e3bae39406c7b2c88affae9b405bee7499568a4013f440189dfbf/cloud/images/social-icon-google-cloud-1200-630.png" width="90" height="90" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="60" height="60" />
+<img src="https://www.gstatic.com/devrel-devsite/prod/v67cb8b0ddf4e3bae39406c7b2c88affae9b405bee7499568a4013f440189dfbf/cloud/images/social-icon-google-cloud-1200-630.png" width="120" height="90" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" width="120" height="90" />
 
 
 <h3 align="left">Hobbies</h3>
