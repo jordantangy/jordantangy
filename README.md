@@ -38,5 +38,5 @@
 
 <h3 align="left">&</h3>
 
-<a href="#" target="_blank"><img src="https://fontsbee.com/wp-content/uploads/2021/10/Fender-Font-Family-Free-Download.jpg" alt="coffee" width="45" height="50"/> </a><a href="#" target="_blank"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/273/person-surfing_1f3c4.png" alt="surf" width="42" height="52"/> </a>
+<a href="#" target="_blank"><img src="https://fontsbee.com/wp-content/uploads/2021/10/Fender-Font-Family-Free-Download.jpg" alt="coffee" width="100" height="60"/> </a><a href="#" target="_blank"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/273/person-surfing_1f3c4.png" alt="surf" width="42" height="52"/> </a>
 </p>
