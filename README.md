@@ -9,9 +9,7 @@
 
 <h3 align="left">Interested in:</h3>
 <p align="left">
-  <a href="#" target="_blank">
-      <img src="https://w1.pngwing.com/pngs/425/99/png-transparent-java-logo-programming-language-selenium-computer-software-java-class-file-computer-programming-software-developer-software-framework.png" alt="Java logo" width="60" height="60">
-    </a>
+
  <a href="#" target="_blank">
       <img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" alt="Spring Boot logo" width="120" height="45">
     </a>
@@ -28,10 +26,13 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" height="50">
     </a>
     <a href="#" target="_blank">
+      <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="Java logo" width="60" height="60">
+    </a>
+    <a href="#" target="_blank">
       <img src="https://blog.insaid.co/wp-content/uploads/2019/04/Python-logo.jpg" alt="Python logo" width="50" height="50">
     </a>
     <a href="#" target="_blank">
-      <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL logo" width="77" height="30">
+      <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="PostgreSQL logo" width="60" height="60">
     </a>
 
 
