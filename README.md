@@ -25,6 +25,9 @@ I successfully graduated from Ariel University  with a B.Sc. in Computer Science
 	<code><img height="80" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" /></code>
 	<code><img height="80" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" /></code>
 </div>
+<div>
+	<code><img height="80" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" /></code>
+</div>
 
 <h2 align="left">Tools  🛠</h2>
 <p align="left"> 
