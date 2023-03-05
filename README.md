@@ -38,5 +38,5 @@
 
 <h3 align="left">&</h3>
 
-<a href="#" target="_blank"><img src="https://fontsbee.com/wp-content/uploads/2021/10/Fender-Font-Family-Free-Download.jpg" alt="coffee" width="100" height="60"/> </a><a href="#" target="_blank"><img src="https://img.freepik.com/premium-vector/freestyle-snowboard-vector-logo-design_215665-469.jpg?w=2000" alt="surf" width="42" height="52"/> </a>
+<a href="#" target="_blank"><img src="https://fontsbee.com/wp-content/uploads/2021/10/Fender-Font-Family-Free-Download.jpg" alt="coffee" width="100" height="60"/> </a><a href="#" target="_blank"><img src="https://w7.pngwing.com/pngs/227/754/png-transparent-person-riding-snowboard-illustration-snowboarding-silhouette-skiing-snowboard-thumbnail.png" alt="surf" width="70" height="55"/> </a>
 </p>
