@@ -5,7 +5,9 @@
 <a <a href= "https://www.linkedin.com/in/jordan-tangy-274a66184/">LinkedIn Profile</a>
 </h4>
 
-**Contact me:** `jordantangy@gmail.com`
+<h4 align="center">
+Contact me: `jordantangy@gmail.com`
+</h4>
 
 ## A little about me:
 Passionate by new technologies, data and developing back-end based technologies. </br>
