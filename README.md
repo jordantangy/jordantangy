@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 🤙 </h1>
-<h3 align="center">I'm Jordan, <br/> a Back-End Developer and Computer Science & Mathematics Graduate  </a></h3>
+<h3 align="center">I'm Jordan, <br/> a Developer Support Engineer at JFrog 🐸  </a></h3>
 
 <h4 align="center">
 <a <a href= "https://www.linkedin.com/in/jordan-tangy-274a66184/">LinkedIn Profile</a>
