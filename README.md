@@ -57,7 +57,7 @@ I successfully graduated from Ariel University  with a B.Sc. in Computer Science
 <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="60" height="60" />
 
-<h2 align="left">Cloud Solutions ☁</h2>
+<h2 align="left">Cloud Providers ☁</h2>
 <p align="left"> 
 <div>
 	<code><img height="80" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" /></code>
